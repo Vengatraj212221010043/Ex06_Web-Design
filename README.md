@@ -67,5 +67,6 @@ Click me to Find Grade Result of a Student
 ## OUTPUT
 
 
+
 ## RESULT
   Student result using JavaScript is created successfully.
